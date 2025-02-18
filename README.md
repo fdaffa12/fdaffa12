@@ -49,19 +49,42 @@
 - Sistem housekeeping management
 
 ## 📊 GitHub Analytics
+
 <div align="center">
-  <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fdaffa12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fdaffa12&theme=tokyonight&hide_border=true" />
-  </p>
+  <details>
+    <summary>🔥 Statistik Kontribusi</summary>
+    <br/>
+    <p>
+      <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=fdaffa12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f54768&icon_color=f54768" />
+      <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fdaffa12&theme=radical&hide_border=true&background=0D1117&ring=f54768&fire=f54768&currStreakLabel=f54768" />
+    </p>
+  </details>
+
+  <details>
+    <summary>💻 Bahasa Pemrograman yang Sering Digunakan</summary>
+    <br/>
+    <p>
+      <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdaffa12&theme=radical&hide_border=true&bg_color=0D1117&title_color=f54768&layout=compact&langs_count=10" />
+    </p>
+  </details>
+
+  <details>
+    <summary>🏆 GitHub Achievements</summary>
+    <br/>
+    <p>
+      <img src="https://github-profile-trophy.vercel.app/?username=fdaffa12&theme=radical&no-frame=true&row=1&column=7&bg_color=0D1117" />
+    </p>
+  </details>
+
+  <br/>
   
-  <p align="center">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdaffa12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
-  </p>
+  <h3>📈 Grafik Aktivitas</h3>
+  <img src="https://activity-graph.herokuapp.com/graph?username=fdaffa12&theme=redical&bg_color=0D1117&color=f54768&line=f54768&point=FFFFFF&hide_border=true" />
   
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=fdaffa12&theme=tokyonight&no-frame=true&row=1&column=7" />
-  </p>
+  <br/>
+  
+  <h3>⚡ Statistik Mingguan</h3>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fdaffa12&theme=radical&hide_border=true&bg_color=0D1117&title_color=f54768" />
 </div>
 
 ## 🎓 Pendidikan & Sertifikasi
