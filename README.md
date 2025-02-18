@@ -33,94 +33,20 @@
   </table>
 </div>
 
-## 🌟 Highlight Proyek
+### 🏭 Smart Button System
+- Real-time production tracking menggunakan IoT
+- Integrasi dengan dashboard web untuk monitoring
+- Notifikasi real-time via Telegram
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <h3>🏭 Smart Button System</h3>
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mqtt.svg" width="100px" />
-        <br/><br/>
-        <p>
-          <a href="https://github.com/fdaffa12/smart-button">
-            <img src="https://img.shields.io/badge/Lihat_Proyek-4B49AC?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipse-mosquitto&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
-        </p>
-        <details>
-          <summary><b>Fitur Utama</b></summary>
-          <br/>
-          ✅ Real-time production tracking<br/>
-          ✅ Dashboard monitoring interaktif<br/>
-          ✅ Notifikasi Telegram terintegrasi<br/>
-          ✅ Data analytics & reporting<br/>
-          ✅ Multi-device support
-        </details>
-      </td>
-      <td width="33%" align="center">
-        <h3>🌡️ IoT Temperature Monitor</h3>
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg" width="100px" />
-        <br/><br/>
-        <p>
-          <a href="https://github.com/fdaffa12/temp-monitor">
-            <img src="https://img.shields.io/badge/Lihat_Proyek-4B49AC?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-        </p>
-        <details>
-          <summary><b>Fitur Utama</b></summary>
-          <br/>
-          ✅ Monitoring suhu real-time<br/>
-          ✅ Alert sistem otomatis<br/>
-          ✅ Historical data logging<br/>
-          ✅ Grafik analisis<br/>
-          ✅ Export data ke Excel
-        </details>
-      </td>
-      <td width="33%" align="center">
-        <h3>🏢 Business Suite Apps</h3>
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" width="100px" />
-        <br/><br/>
-        <p>
-          <a href="https://github.com/fdaffa12/business-suite">
-            <img src="https://img.shields.io/badge/Lihat_Proyek-4B49AC?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-        </p>
-        <details>
-          <summary><b>Fitur Utama</b></summary>
-          <br/>
-          ✅ Manajemen inventori<br/>
-          ✅ Sales tracking system<br/>
-          ✅ Housekeeping management<br/>
-          ✅ Laporan keuangan<br/>
-          ✅ Multi-user role system
-        </details>
-      </td>
-    </tr>
-  </table>
+### 🌡️ IoT Temperature Monitoring
+- Sistem monitoring suhu berbasis ESP8266
+- Alert otomatis via Telegram
+- Dashboard monitoring real-time
 
-  <!-- Statistik Proyek -->
-  <h3>📈 Statistik Proyek</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fdaffa12&repo=smart-button&theme=aura&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fdaffa12&repo=temp-monitor&theme=aura&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fdaffa12&repo=business-suite&theme=aura&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" />
-  </p>
-</div>
+### 🏢 Custom Business Apps
+- Sistem manajemen inventori terintegrasi
+- Aplikasi sales tracking
+- Sistem housekeeping management
 
 ## 📊 GitHub Analytics
 
