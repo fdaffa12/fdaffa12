@@ -97,18 +97,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdaffa12&theme=aura_dark&utcOffset=7" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fdaffa12&theme=aura_dark" />
   </p>
-  
-  <!-- Animated Metrics -->
-  <h3>📊 Weekly Development Breakdown</h3>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fdaffa12&theme=aura&hide_border=true&bg_color=0D1117&title_color=FF69B4" />
-  </p>
-  
-  <!-- Animated Commit Snake -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/fdaffa12/fdaffa12/output/github-contribution-grid-snake-dark.svg" />
-  </p>
 </div>
 
 
