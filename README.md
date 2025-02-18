@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizdaffa12&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdaffa12&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 </p>
 
 ## 🎯 Tentang Saya
@@ -50,8 +50,8 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizdaffa12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizdaffa12&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdaffa12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdaffa12&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🎓 Pendidikan & Sertifikasi
@@ -73,11 +73,11 @@ Sertifikasi:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faiz-daffa-kusuma-laksana-89018b181)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fdaffa12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizdaffa12)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fdaffa12)
 
 </div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizdaffa12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=fdaffa12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
