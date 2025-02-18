@@ -53,114 +53,50 @@
 <div align="center">
   <h3>🔥 Statistik Kontribusi</h3>
   
-  <p align="center" style="display: flex; gap: 10px; justify-content: center;">
-    <a href="https://github.com/fdaffa12" target="_blank">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdaffa12&show_icons=true&include_all_commits=true&count_private=true&theme=aura&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" 
-        style="transition: transform 0.3s ease-in-out;"
-        onmouseover="this.style.transform='scale(1.05)'"
-        onmouseout="this.style.transform='scale(1)'" />
+  <p align="center">
+    <a href="https://github.com/fdaffa12">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdaffa12&show_icons=true&include_all_commits=true&count_private=true&theme=aura&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fdaffa12&theme=aura&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
     </a>
-    <a href="https://github.com/fdaffa12" target="_blank">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fdaffa12&theme=aura&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"
-        style="transition: transform 0.3s ease-in-out;"
-        onmouseover="this.style.transform='scale(1.05)'"
-        onmouseout="this.style.transform='scale(1)'" />
+  </p>
+  
+  <h3>💻 Bahasa & Tools</h3>
+  
+  <p align="center">
+    <a href="https://github.com/fdaffa12">
+      <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdaffa12&langs_count=8&count_private=true&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=FF69B4"/>
     </a>
   </p>
 
-  <div class="stats-container" style="margin: 20px 0;">
-    <h3>💻 Bahasa & Tools</h3>
-    <div class="stats-card" 
-      style="background: rgba(13,17,23,0.95); 
-        border-radius: 10px; 
-        padding: 20px;
-        box-shadow: 0 8px 32px 0 rgba(255,105,180,0.1);
-        backdrop-filter: blur(4px);
-        transition: all 0.3s ease;">
-      <a href="https://github.com/fdaffa12">
-        <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdaffa12&langs_count=8&count_private=true&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=FF69B4"/>
-      </a>
-    </div>
-  </div>
+  <h3>🏆 GitHub Achievements</h3>
+  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=fdaffa12&theme=aura&no-frame=true&no-bg=true&row=1&column=7" />
+  </p>
 
-  <div class="achievements-container" style="margin: 20px 0;">
-    <h3>🏆 GitHub Achievements</h3>
-    <div class="trophy-card" 
-      style="background: rgba(13,17,23,0.95);
-        border-radius: 10px;
-        padding: 20px;
-        box-shadow: 0 8px 32px 0 rgba(255,105,180,0.1);
-        backdrop-filter: blur(4px);
-        transition: all 0.3s ease;">
-      <img src="https://github-profile-trophy.vercel.app/?username=fdaffa12&theme=aura&no-frame=true&no-bg=true&row=1&column=7" />
-    </div>
-  </div>
-
-  <div class="contribution-container" style="margin: 20px 0;">
-    <h3>📈 Contribution Graph</h3>
-    <div class="graph-card" 
-      style="background: rgba(13,17,23,0.95);
-        border-radius: 10px;
-        padding: 20px;
-        box-shadow: 0 8px 32px 0 rgba(255,105,180,0.1);
-        backdrop-filter: blur(4px);
-        transition: all 0.3s ease;">
-      <img alt="Faiz Daffa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=fdaffa12&custom_title=Faiz%20Daffa's%20Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true" />
-    </div>
-  </div>
-
-  <div class="tech-stack-container" style="margin: 20px 0;">
-    <h3>🚀 Tech Stack Mastery</h3>
-    <div class="tech-icons" 
-      style="display: flex;
-        flex-wrap: wrap;
-        gap: 15px;
-        justify-content: center;
-        padding: 20px;">
-      <img src="https://skillicons.dev/icons?i=vue,react,nextjs,laravel,php,arduino,mysql,mongodb,docker,git&perline=5&theme=dark" 
-        style="transition: transform 0.3s ease-in-out;"
-        onmouseover="this.style.transform='scale(1.1)'"
-        onmouseout="this.style.transform='scale(1)'" />
-    </div>
-  </div>
-
-  <div class="quick-stats-container" style="margin: 20px 0;">
-    <h3>⚡ Quick Stats</h3>
-    <div class="stats-cards" 
-      style="display: flex;
-        gap: 20px;
-        justify-content: center;
-        flex-wrap: wrap;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdaffa12&theme=aura_dark&utcOffset=7" 
-        style="transition: transform 0.3s ease-in-out;"
-        onmouseover="this.style.transform='scale(1.05)'"
-        onmouseout="this.style.transform='scale(1)'" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fdaffa12&theme=aura_dark"
-        style="transition: transform 0.3s ease-in-out;"
-        onmouseover="this.style.transform='scale(1.05)'"
-        onmouseout="this.style.transform='scale(1)'" />
-    </div>
-  </div>
+  <h3>📈 Contribution Graph</h3>
+  
+  <a href="https://github.com/fdaffa12">
+    <img alt="Faiz Daffa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=fdaffa12&custom_title=Faiz%20Daffa's%20Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true" />
+  </a>
+  
+  <br/>
+  
+  <!-- Animated Skill Icons -->
+  <h3>🚀 Tech Stack Mastery</h3>
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,laravel,php,arduino,mysql,mongodb,docker,git&perline=5&theme=dark" />
+  </p>
+  
+  <!-- Animated Stats -->
+  <h3>⚡ Quick Stats</h3>
+  
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdaffa12&theme=aura_dark&utcOffset=7" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fdaffa12&theme=aura_dark" />
+  </p>
 </div>
-
-<style>
-.stats-card:hover,
-.trophy-card:hover,
-.graph-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 40px 0 rgba(255,105,180,0.2);
-}
-
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-
-.tech-icons img {
-  animation: float 6s ease-in-out infinite;
-}
-</style>
 
 
 ## 🎓 Pendidikan & Sertifikasi
