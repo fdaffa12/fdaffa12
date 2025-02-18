@@ -48,44 +48,69 @@
 - Aplikasi sales tracking
 - Sistem housekeeping management
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <details>
-    <summary>🔥 Statistik Kontribusi</summary>
-    <br/>
-    <p>
-      <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=fdaffa12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f54768&icon_color=f54768" />
-      <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fdaffa12&theme=radical&hide_border=true&background=0D1117&ring=f54768&fire=f54768&currStreakLabel=f54768" />
-    </p>
-  </details>
+  <h3>🔥 Statistik Kontribusi</h3>
+  
+  <p align="center">
+    <a href="https://github.com/fdaffa12">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdaffa12&show_icons=true&include_all_commits=true&count_private=true&theme=aura&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fdaffa12&theme=aura&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
+    </a>
+  </p>
+  
+  <h3>💻 Bahasa & Tools</h3>
+  
+  <p align="center">
+    <a href="https://github.com/fdaffa12">
+      <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdaffa12&langs_count=8&count_private=true&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=FF69B4"/>
+    </a>
+  </p>
 
-  <details>
-    <summary>💻 Bahasa Pemrograman yang Sering Digunakan</summary>
-    <br/>
-    <p>
-      <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdaffa12&theme=radical&hide_border=true&bg_color=0D1117&title_color=f54768&layout=compact&langs_count=10" />
-    </p>
-  </details>
+  <h3>🏆 GitHub Achievements</h3>
+  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=fdaffa12&theme=aura&no-frame=true&no-bg=true&row=1&column=7" />
+  </p>
 
-  <details>
-    <summary>🏆 GitHub Achievements</summary>
-    <br/>
-    <p>
-      <img src="https://github-profile-trophy.vercel.app/?username=fdaffa12&theme=radical&no-frame=true&row=1&column=7&bg_color=0D1117" />
-    </p>
-  </details>
-
+  <h3>📈 Contribution Graph</h3>
+  
+  <a href="https://github.com/fdaffa12">
+    <img alt="Faiz Daffa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=fdaffa12&custom_title=Faiz%20Daffa's%20Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true" />
+  </a>
+  
   <br/>
   
-  <h3>📈 Grafik Aktivitas</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=fdaffa12&theme=redical&bg_color=0D1117&color=f54768&line=f54768&point=FFFFFF&hide_border=true" />
+  <!-- Animated Skill Icons -->
+  <h3>🚀 Tech Stack Mastery</h3>
   
-  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,laravel,php,arduino,mysql,mongodb,docker,git&perline=5&theme=dark" />
+  </p>
   
-  <h3>⚡ Statistik Mingguan</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fdaffa12&theme=radical&hide_border=true&bg_color=0D1117&title_color=f54768" />
+  <!-- Animated Stats -->
+  <h3>⚡ Quick Stats</h3>
+  
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdaffa12&theme=aura_dark&utcOffset=7" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fdaffa12&theme=aura_dark" />
+  </p>
+  
+  <!-- Animated Metrics -->
+  <h3>📊 Weekly Development Breakdown</h3>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fdaffa12&theme=aura&hide_border=true&bg_color=0D1117&title_color=FF69B4" />
+  </p>
+  
+  <!-- Animated Commit Snake -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/fdaffa12/fdaffa12/output/github-contribution-grid-snake-dark.svg" />
+  </p>
 </div>
+
 
 ## 🎓 Pendidikan & Sertifikasi
 Pendidikan:
