@@ -1,23 +1,30 @@
-# Halo! 👋 Saya [Nama Anda]
+# Hi there! 👋 I'm Faiz Daffa Kusuma Laksana
 
-## Tentang Saya
-🌱 Saat ini sedang belajar [teknologi]
-💼 Bekerja sebagai [posisi]
-⚡ Fun fact: [fakta menarik]
+## 🚀 About Me
+I'm an **IoT Web Developer** with a passion for integrating **IoT systems**, **real-time data visualization**, and **web technologies** to optimize industrial processes. I specialize in **ESP32 microcontrollers**, **Laravel**, and **hybrid database management** (MySQL & MongoDB).
 
-## Teknologi yang Saya Gunakan
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+### 💡 What I Do
+- 🏭 **Smart IoT Solutions** – Developing real-time monitoring systems for factories.
+- 💻 **Web Development** – Crafting responsive applications with Laravel, JavaScript, and AJAX.
+- 📡 **IoT Integration** – Implementing MQTT, RFID, and sensor-based solutions.
+- 🔧 **Database Architecture** – Managing SQL & NoSQL databases efficiently.
 
-## Statistik GitHub
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+## 🏆 Key Projects
+- **Smart Button System** – IoT-based real-time production tracking.
+- **IoT Temperature Monitoring** – ESP8266-based monitoring with Telegram alerts.
+- **Custom Business Apps** – Automated inventory, sales, and housekeeping management.
 
+## 🛠️ Technical Skills
+- **Programming:** C++, C#, PHP, JavaScript, HTML, CSS
+- **Frameworks:** Laravel, Vue.js, React.js, Next.js
+- **IoT Expertise:** ESP32, ESP8266, Arduino, MQTT, RFID, Sensors
+- **Databases:** MySQL, MongoDB
+- **Deployment:** Docker, Nginx, GitHub
 
-## Proyek Unggulan
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-NAME)](https://github.com/USERNAME/REPO-NAME)
+## 🎓 Education & Certifications
+- 🎓 **Bachelor's Degree in Information Technology** – Universitas Mandiri (2017-2022)
+- 🏅 **Laravel & Vue.js Bootcamp** – Udemy
+- 🏅 **Web Development with Laravel** – Coding Studio
 
-## Mari Terhubung!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](URL_LINKEDIN_ANDA)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](URL_TWITTER_ANDA)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EMAIL_ANDA)
+## 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/faiz-daffa-kusuma-laksana-89018b181) | 📧 fdaffa12@gmail.com
