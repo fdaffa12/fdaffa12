@@ -11,14 +11,14 @@
 <div align="center">
   <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
-  > Seorang **Full Stack Developer & Tech Enthusiast** yang berdedikasi dalam mengembangkan solusi teknologi modern dan inovatif. Spesialisasi saya meliputi:
+  > A dedicated **Full Stack Developer & Tech Enthusiast** focused on developing modern and innovative technology solutions. My specializations include:
   
-  - 🚀 Pengembangan aplikasi web dengan Next.js, Vue.js & Laravel
-  - 🤖 Implementasi solusi AI untuk optimasi proses bisnis
-  - 🔧 Integrasi sistem IoT dan pengembangan embedded systems
-  - 📊 Pengembangan dashboard analytics & monitoring
-  - 🌐 Arsitektur sistem terdistribusi & cloud computing
-  - 💡 Eksplorasi teknologi baru & inovasi berkelanjutan
+  - 🚀 Web application development with Next.js, Vue.js & Laravel
+  - 🤖 AI solution implementation for business process optimization
+  - 🔧 IoT system integration and embedded systems development
+  - 📊 Analytics & monitoring dashboard development
+  - 🌐 Distributed systems architecture & cloud computing
+  - 💡 New technology exploration & continuous innovation
 </div>
 
 <div align="center">
