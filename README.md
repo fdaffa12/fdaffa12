@@ -11,13 +11,14 @@
 <div align="center">
   <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
-  > Seorang **IoT Web Developer** yang berdedikasi dalam mengintegrasikan sistem IoT dengan solusi web modern. Spesialisasi saya meliputi:
+  > Seorang **Full Stack Developer & Tech Enthusiast** yang berdedikasi dalam mengembangkan solusi teknologi modern dan inovatif. Spesialisasi saya meliputi:
   
-  - 🔧 Pengembangan sistem monitoring real-time
-  - 🏭 Optimasi proses industri
-  - 🌐 Integrasi IoT dengan aplikasi web
-  - 📊 Analisis data dan visualisasi
-  - 🤖 Automasi sistem industri
+  - 🚀 Pengembangan aplikasi web dengan Next.js, Vue.js & Laravel
+  - 🤖 Implementasi solusi AI untuk optimasi proses bisnis
+  - 🔧 Integrasi sistem IoT dan pengembangan embedded systems
+  - 📊 Pengembangan dashboard analytics & monitoring
+  - 🌐 Arsitektur sistem terdistribusi & cloud computing
+  - 💡 Eksplorasi teknologi baru & inovasi berkelanjutan
 </div>
 
 <div align="center">
@@ -55,7 +56,7 @@
 - 🔄 Real-time production tracking with IoT integration
 - 📊 Web-based monitoring dashboard
 - 📱 Instant Telegram notifications
-- �� Seamless hardware-software integration
+- 📈 Seamless hardware-software integration
 - 📈 Production analytics and reporting
 
 #### Temperature Monitoring System
