@@ -6,8 +6,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdaffa12&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 </p>
 
-## 🎯 Tentang Saya
-
+## 🎯 About Me
 <div align="center">
   <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
